@@ -1,0 +1,17 @@
+[project]
+name = "lang-chain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure_identity",
+    "langchain",
+    "langchain_community",
+    "langchain_core",
+    "langchain_ollama",
+    "langchain_openai",
+    "langchain_pinecone",
+    "python_dotenv",
+    "tweepy"
+]
