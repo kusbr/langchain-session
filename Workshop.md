@@ -8,7 +8,7 @@ Complete steps mentioned under [Prerequisites](Prerequisites.md)
 
 We will create a simple chain and execute using AzureOAI, OpenAI and optionally one or more local models
 
-- [Simplechain ReadMe](1.simplechain/README.md)
+- [Simplechain ReadMe](1-SimpleChain/README.md)
 
 ## 2. VectorDB-RAG
 

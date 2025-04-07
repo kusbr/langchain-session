@@ -58,3 +58,7 @@ Update the .env file with your keys and endpoint urls
 In the `Terminal` run the following code to install the dependencies given in `pyproject.toml` file
 
 ![Local Image](_assets/uvsync.png)
+
+## Run scenarios
+
+[Workshop Scenarios](./Workshop.md#1-simple-chain)
