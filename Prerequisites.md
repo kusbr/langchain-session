@@ -48,3 +48,7 @@ Create tracing project[s] in [LangSmith](https://smith.langchain.com/)
 ![Local Image](_assets/LangSmith1.png)
 
 ![Local Image](_assets/tracingproject.png)
+
+## Update .env
+
+Update the .env file with your keys and endpoint urls
