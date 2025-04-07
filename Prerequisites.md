@@ -52,3 +52,9 @@ Create tracing project[s] in [LangSmith](https://smith.langchain.com/)
 ## Update .env
 
 Update the .env file with your keys and endpoint urls
+
+## Install Project Dependencies
+
+In the `Terminal` run the following code to install the dependencies given in `pyproject.toml` file
+
+![Local Image](_assets/uvsync.png)
