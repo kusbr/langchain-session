@@ -32,17 +32,17 @@ Create tracing project[s] in [LangSmith](https://smith.langchain.com/)
 
 ![Local Image](_assets/tracingproject.png)
 
-## Update .env
+## 4. Update .env
 
 Update the .env file with your keys and endpoint urls
 
-## Install Project Dependencies
+## 5. Install Project Dependencies
 
 In the `Terminal` run the following code to install the dependencies given in `pyproject.toml` file
 
 ![Local Image](_assets/uvsync.png)
 
-## 4. Vector Database
+## 6. Vector Database
 
 We will be using [PineCone](https://www.pinecone.io/) as the embeddings store for RAG use case using LangChain:
 
@@ -58,7 +58,6 @@ We will be using [PineCone](https://www.pinecone.io/) as the embeddings store fo
 ### Index name
 
     medium-blogs-embeddings-index
-
 
 ## Scenarios
 
